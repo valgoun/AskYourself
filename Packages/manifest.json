@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.unity.analytics": "3.2.0",
     "com.unity.package-manager-ui": "2.0.3",
     "com.unity.postprocessing": "2.1.1",
     "com.unity.render-pipelines.high-definition": "4.3.0-preview",
